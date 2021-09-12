@@ -1,0 +1,40 @@
+{
+    "root": {
+        "question": "i18n_first_question",
+        "answers": "default",
+        "branch":{
+            "yes": {
+                "question":"i18n_which_mosquito",
+                "answers": "mosquito_answers",
+                "branch":{
+                    "aedes":{
+                        "question":"i18n_which_torax",
+                        "answers": "torax_answers",
+                        "branch":{
+                            "japonicus_koreicus": {
+                                "question":"i18n_which_legs",
+                                "answers": "legs_answers"
+                            }
+                        }
+                    }
+                }
+            },
+            "no":{
+                "question":"i18n_breeding_site",
+                "answers": "default",
+                "branch":{
+                    "yes":{
+                        "question":"i18n_breeding_water",
+                        "answers": "default",
+                        "branch": {
+                            "yes":{
+                                "question":"i18n_breeding_larvae",
+                                "answers": "default"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
