@@ -1,18 +1,18 @@
 {
     "root": {
-        "question": "i18n_first_question",
+        "question": "Do-you-see-a-mosquito-in-this-photo",
         "answers": "default",
         "branch":{
             "yes": {
-                "question":"i18n_which_mosquito",
+                "question":"Could-you-identify-what-kind-of-mosquito-is",
                 "answers": "mosquito_answers",
                 "branch":{
                     "aedes":{
-                        "question":"i18n_which_torax",
+                        "question":"Are-you-able-to-recognize-its-torax",
                         "answers": "torax_answers",
                         "branch":{
                             "japonicus_koreicus": {
-                                "question":"i18n_which_legs",
+                                "question":"Can-you-see-how-the-third-pair-rear-legs-look",
                                 "answers": "legs_answers"
                             }
                         }
@@ -20,15 +20,15 @@
                 }
             },
             "no":{
-                "question":"i18n_breeding_site",
+                "question":"Can-you-see-a-place-where-mosquitoes-could-breed",
                 "answers": "default",
                 "branch":{
                     "yes":{
-                        "question":"i18n_breeding_water",
+                        "question":"Can-you-see-if-the-site-contains-water",
                         "answers": "default",
                         "branch": {
                             "yes":{
-                                "question":"i18n_breeding_larvae",
+                                "question":"Can-you-see-mosquito-larvae",
                                 "answers": "default"
                             }
                         }
