@@ -1,33 +1,33 @@
 {   
     "default":
-     "<button class=\"btn btn-success btn-answer\" value=\"yes\"><i class=\"fa fa-thumbs-o-up\"></i>Yes</button>
-     <button class=\"btn btn-danger btn-answer\" value=\"no\"><i class=\"fa fa-thumbs-o-down\"></i>No</button>
-     <button class=\"btn btn-answer\" value=\"NotKnown_mosquito_presence\"><i class=\"fa fa-question-circle\"></i>I-dont-know</button>",
+     "<button class='btn btn-success btn-answer' value='yes'><i class='fa fa-thumbs-o-up'></i>Yes</button>
+     <button class='btn btn-danger btn-answer' value='no'><i class='fa fa-thumbs-o-down'></i>No</button>
+     <button class='btn btn-answer' value='NotKnown_mosquito_presence'><i class='fa fa-question-circle'></i>I-dont-know</button>",
     "mosquito_answers":
-        "<button class=\"btn btn-dark btn-answer\" value=\"aedes\">Invasor-aedes}</button>
-        <button class=\"btn btn-info btn-answer\" value=\"culex\">Culex-common-mosquito </button>
-        <button class=\"btn btn-answer\" value=\"NotKnown_which_mosquito\"><i class=\"fa fa-question-circle\"></i>I-dont-know</button>
-        <button class=\"btn btn-warning btn-answer\" value=\"any_mosquito\"><i class=\"fa fa-thumbs-o-down\"></i>Any</button>",
+        "<button class='btn btn-dark btn-answer' value='aedes'>Invasor-aedes}</button>
+        <button class='btn btn-info btn-answer' value='culex'>Culex-common-mosquito </button>
+        <button class='btn btn-answer' value='NotKnown_which_mosquito'><i class='fa fa-question-circle'></i>I-dont-know</button>
+        <button class='btn btn-warning btn-answer' value='any_mosquito'><i class='fa fa-thumbs-o-down'></i>Any</button>",
     "torax_answers":
-        "<button class=\"btn btn-dark btn-answer\" value=\"albopictus\">Aedes-albopictus</button>
-        <button class=\"btn btn-info btn-answer\" value=\"aegypti\">Aedes-aegypti</button>
-        <button class=\"btn btn-info btn-answer\" value=\"japonicus_koreicus\">Aedes-japonicus-koreicus</button>
-        <button class=\"btn btn-answer\" value=\"NotKnown_torax\"></i>I-dont-know</button>
-        <button class=\"btn btn-warning btn-answer\" value=\"any_torax\"><i class=\"fa fa-thumbs-o-down\"></i>Any</button>",
+        "<button class='btn btn-dark btn-answer' value='albopictus'>Aedes-albopictus</button>
+        <button class='btn btn-info btn-answer' value='aegypti'>Aedes-aegypti</button>
+        <button class='btn btn-info btn-answer' value='japonicus_koreicus'>Aedes-japonicus-koreicus</button>
+        <button class='btn btn-answer' value='NotKnown_torax'></i>I-dont-know</button>
+        <button class='btn btn-warning btn-answer' value='any_torax'><i class='fa fa-thumbs-o-down'></i>Any</button>",
     "legs_answers":
-        "<button class=\"btn btn-dark btn-answer\" value=\"japonicus\">Aedes-japonicus</button>
-        <button class=\"btn btn-info btn-answer\" value=\"koreicus\">Aedes-koreicus</button>
-        <button class=\"btn btn-answer\" value=\"NotKnown_legs\"><i class=\"fa fa-question-circle\"></i>I-dont-know</button>",
+        "<button class='btn btn-dark btn-answer' value='japonicus'>Aedes-japonicus</button>
+        <button class='btn btn-info btn-answer' value='koreicus'>Aedes-koreicus</button>
+        <button class='btn btn-answer' value='NotKnown_legs'><i class='fa fa-question-circle'></i>I-dont-know</button>",
     "breeding_answers":
-        "<button class=\"btn btn-dark btn-answer\" value=\"yes\"><i class=\"fa fa-thumbs-o-up\"></i>Yes</button>
-        <button class=\"btn btn-info btn-answer\" value=\"no_breeding\"><i class=\"fa fa-thumbs-o-down\"></i>No</button>
-        <button class=\"btn btn-answer\" value=\"NotKnown_breeding\"><i class=\"fa fa-question-circle\"></i>I-dont-know</button>",
+        "<button class='btn btn-dark btn-answer' value='yes'><i class='fa fa-thumbs-o-up'></i>Yes</button>
+        <button class='btn btn-info btn-answer' value='no_breeding'><i class='fa fa-thumbs-o-down'></i>No</button>
+        <button class='btn btn-answer' value='NotKnown_breeding'><i class='fa fa-question-circle'></i>I-dont-know</button>",
     "water_answers":
-        "<button class=\"btn btn-dark btn-answer\" value=\"yes\"><i class=\"fa fa-thumbs-o-up\"></i>Yes</button>
-        <button class=\"btn btn-info btn-answer\" value=\"no_water\"><i class=\"fa fa-thumbs-o-down\"></i>No</button>
-        <button class=\"btn btn-answer\" value=\"NotKnown_water\"><i class=\"fa fa-question-circle\"></i>I-dont-know</button>",
+        "<button class='btn btn-dark btn-answer' value='yes'><i class='fa fa-thumbs-o-up'></i>Yes</button>
+        <button class='btn btn-info btn-answer' value='no_water'><i class='fa fa-thumbs-o-down'></i>No</button>
+        <button class='btn btn-answer' value='NotKnown_water'><i class='fa fa-question-circle'></i>I-dont-know</button>",
     "larvae_answers":
-        "<button class=\"btn btn-dark btn-answer\" value=\"yes_larvae\"><i class=\"fa fa-thumbs-o-up\"></i>Yes</button>
-        <button class=\"btn btn-info btn-answer\" value=\"no_larvae\"><i class=\"fa fa-thumbs-o-down\"></i>No</button>
-        <button class=\"btn btn-answer\" value=\"NotKnown_larvae\"><i class=\"fa fa-question-circle\"></i>I-dont-know</button>"
+        "<button class='btn btn-dark btn-answer' value='yes_larvae'><i class='fa fa-thumbs-o-up'></i>Yes</button>
+        <button class='btn btn-info btn-answer' value='no_larvae'><i class='fa fa-thumbs-o-down'></i>No</button>
+        <button class='btn btn-answer' value='NotKnown_larvae'><i class='fa fa-question-circle'></i>I-dont-know</button>"
 }
